@@ -1,5 +1,3 @@
-import { Crypto, load, _ } from './lib/cat.js';
-
 import req from '../../util/req.js';
 
 let key = '1free';
