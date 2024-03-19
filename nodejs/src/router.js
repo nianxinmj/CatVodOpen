@@ -5,10 +5,8 @@ import alist from './spider/pan/alist.js';
 import _13bqg from './spider/book/13bqg.js';
 import copymanga from './spider/book/copymanga.js';
 import ffm3u8 from './spider/video/ffm3u8.js';
-import nxkunyu77 from './spider/video/nxkunyu77.js';
-import nxkkys from './spider/video/nxkkys.js';
 
-const spiders = [kunyu77, nxkunyu77, nxkkys, kkys, ffm3u8, push, alist, _13bqg, copymanga];
+const spiders = [kunyu77, kkys, ffm3u8, push, alist, _13bqg, copymanga];
 const spiderPrefix = '/spider';
 
 /**
